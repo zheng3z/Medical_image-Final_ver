@@ -1,11 +1,15 @@
-# Medical_Image
+# Medical Image
 
-## Labelling Effort of Semi-Supervised Learning vs Supervised Learning
+## Alzheimer’s Disease Pathological Image Recognition and Classification
 
-### Run `Supervised_Learnings.ipynb` to get different models from different methods. 
+### Instructions to run this project
 
-- Total of five models, ` Tang et al.'s model`, `ResNet34`, `RegNet02x`, `10_percent_data`, `Transfer_learning`, generated models can be found in /models folder.
+1. Run `Supervised_Learnings.ipynb` to get different models from different methods.
 
-### Run `Semi_Supervised_Learning.py` to get Semi-Supervised model.
+   - Total of five models, `Tang et al.'s model`, `ResNet34`, `RegNet02x`, `10_percent_data`, `Transfer_learning`, generated models can be found in /models folder.
 
-### Compare models in `Test Cases.ipynb`.
+2. Run `Semi_Supervised_Learning.py` to get Semi-Supervised model
+
+3. Compare models and results in `Test Cases.ipynb`
+
+## Please find research paper in [Medical_Image.pdf](Medical_Image.pdf)
